@@ -5,5 +5,4 @@ int main()
     string S;
     cin>>S;
     cout<<"Hello, "<<S;
-
 }
