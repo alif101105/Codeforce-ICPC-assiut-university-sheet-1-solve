@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
  {
-     int i, n=4, arr[10], min, max;
+     int i, n=3, arr[5], min, max;
      for(i=0;i<n;i++)
     {
         scanf("%d", &arr[i]);
@@ -21,4 +21,3 @@ int main()
      printf("%d %d", min, max);
      return 0;
  }
-
