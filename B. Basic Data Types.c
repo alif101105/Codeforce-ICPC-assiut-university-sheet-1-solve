@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    long long x,y,sum,mult,sub;
+    long long int x,y,sum,mult,sub;
     scanf("%lld %lld",&x,&y);
     sum=x+y;
     mult=x*y;
