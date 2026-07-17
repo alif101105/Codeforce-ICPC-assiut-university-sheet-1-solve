@@ -29,7 +29,7 @@
 
 
 
-// Array diye kora hoise..
+// Same problem Array diye kora hoise..
 #include<stdio.h>
 int main()
  {
